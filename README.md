@@ -21,6 +21,7 @@
 	pip3 install -r requirements.txt
 	```
 
+
 #### Usage Instructions
 
 1. Start the script:
@@ -30,7 +31,8 @@
 
 2. When prompted, input the URL of the video you wish to boost.
 3. Enter how many views you want to generate.
-4. Specify how long (in seconds) each view should last.
+4. Specify the range (in seconds) for how long each view should last.
+5. Specify the number of instances to run simultaneously.
 
 ### Key Features
 
